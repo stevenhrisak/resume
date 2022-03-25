@@ -1,5 +1,8 @@
-## STEVEN M. HRISAK  
-Atlanta, GA  (470)-344-5590	**stevenhrisak00@gmail.com** 
+## STEVEN M. HRISAK
+
+Atlanta, GA  
+(470)-344-5590	
+**stevenhrisak00@gmail.com** 
 
 ### EDUCATION: 
 
