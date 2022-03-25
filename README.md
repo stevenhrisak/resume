@@ -2,8 +2,7 @@
 
 Atlanta, GA  
 (470)-344-5590
-
-**stevenhrisak00@gmail.com** 
+stevenhrisak00@gmail.com
 
 ### EDUCATION: 
 
