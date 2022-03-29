@@ -11,6 +11,16 @@ Bachelor of Science, Psychology from Kennesaw State University (December 1997) 
 
 ### PROFESSIONAL EXPERIENCE:
 
+[Hacks](https://www.hacks.ga)  September 2020 - Present
+
+**Software Tester**
++ Senior software tester for Private Parties
++ Discovered JavaScript, Perl and .NET Hacks
++ Located Printer Hack which has been used to hack the Lottery System
++ Helped Google and other parties resolve hacking issues
++ Exposed the United States Government for developing the PowerLine Nework
++ Created a team that helps stop hacking activity
+
 _MDT Software_  March 2018 – September 2020 
 
 **JavaScript Programmer**
