@@ -2,7 +2,7 @@
 
 Atlanta, GA  
 (470)-886-8121
-stevenhrisak00@gmail.com
+shrisak@yandex.com
 
 ### EDUCATION: 
 
