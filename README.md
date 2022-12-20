@@ -11,7 +11,7 @@ Bachelor of Science, Psychology from Kennesaw State University (December 1997) 
 
 ### PROFESSIONAL EXPERIENCE:
 
-[Hacks](https://www.hacks.ga)  March 2017 - Present
+[Hacks](https://splithack.ga)  March 2017 - Present
 
 **Software Tester**
 + Senior software tester for Private Parties
