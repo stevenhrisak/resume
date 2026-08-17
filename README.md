@@ -1,7 +1,7 @@
 ## STEVEN M. HRISAK
 
-Atlanta, GA  
-(470)-886-8121
+Canton, GA  
+(770)-714-7139
 shrisak@yandex.com
 
 ### EDUCATION: 
@@ -11,14 +11,13 @@ Bachelor of Science, Psychology from Kennesaw State University (December 1997) 
 
 ### PROFESSIONAL EXPERIENCE:
 
-[Hacks](https://splithack.ga)  March 2017 - Present
+Web Developer September 2020 - Present
 
-**Software Tester**
-+ Senior software tester for Private Parties
-+ Discovered JavaScript, Perl and .NET Hacks
-+ Located Printer Hack which has been used to hack the Lottery System
-+ Exposed the United States Government for developing the PowerLine Nework
-+ Created a team that helps stop hacking activity
+**Web Developer**
++ Senior Web Developer for Private Parties
++ Hugo based website creation and deployment
++ JavaScript, jQuery, Bootstrap, HTML, CSS
++ Linux and Windows Environments
 
 _MDT Software_  March 2018 – September 2020 
 
