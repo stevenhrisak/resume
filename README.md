@@ -6,8 +6,8 @@ shrisak@yandex.com
 
 ### EDUCATION: 
 
-Master of Information Technology from American InterContinental University (September 2000)
-Bachelor of Science, Psychology from Kennesaw State University (December 1997) 
++ Master of Information Technology from American InterContinental University (September 2000)
++ Bachelor of Science, Psychology from Kennesaw State University (December 1997) 
 
 ### PROFESSIONAL EXPERIENCE:
 
