@@ -11,7 +11,7 @@ shrisak@yandex.com
 
 ### PROFESSIONAL EXPERIENCE:
 
-Web Developer September 2020 - Present
+Private Web Developer September 2020 - Present
 
 **Web Developer**
 + Senior Web Developer for Private Parties
